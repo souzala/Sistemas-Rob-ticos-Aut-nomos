@@ -29,6 +29,7 @@ Implementar gerador de caminho baseado em polinômios interpoladores de 3º grau
 ## Segundo projeto
 
 🎯 **Objetivo:**
+
 Desenvolver Planejadores de Caminhos para Robô Móvel que permitam ao mesmo executar movimentos especificados em espaço povoado de obstáculos, sem colidir com os mesmos. 
 
 **Meta 1️⃣** 
