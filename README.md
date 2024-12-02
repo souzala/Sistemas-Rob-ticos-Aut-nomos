@@ -17,4 +17,15 @@ Simular um robô móvel com acionamento diferencial e desenvolver um sistema de 
 **Meta 2.** Implementar controlador cinemático de posição para o robô móvel que leve o robô a uma posição final especificada. Obter resultados de simulação (caminho seguido pelo robô, gráficos das variáveis de entrada e saída em função do tempo, etc.). Entregar relatório e vídeo mostrando os resultados obtidos. 
 
 
-**Meta 3.** Implementar gerador de caminho baseado em polinômios interpoladores de 3º grau para robô móvel. Incluir gerador de caminho na simulação. O simulador deve permitir mostrar o caminho gerado sobre a tela do espaço de trabalho do CoppeliaSim. Implementar controlador de caminhos para seguir o caminho especificado Obter resultados de simulação (caminho gerado, caminho seguido, gráficos das variáveis de entrada e saída em função do tempo, etc.). Entregar relatório e vídeo mostrando o sistema funcionando. 
+**Meta 3.** Implementar gerador de caminho baseado em polinômios interpoladores de 3º grau para robô móvel. Incluir gerador de caminho na simulação. O simulador deve permitir mostrar o caminho gerado sobre a tela do espaço de trabalho do CoppeliaSim. Implementar controlador de caminhos para seguir o caminho especificado Obter resultados de simulação (caminho gerado, caminho seguido, gráficos das variáveis de entrada e saída em função do tempo, etc.). Entregar relatório e vídeo mostrando o sistema funcionando.
+
+
+##Segundo projeto
+**Objetivo: **
+Desenvolver Planejadores de Caminhos para Robô Móvel que permitam ao mesmo executar movimentos especificados em espaço povoado de obstáculos, sem colidir com os mesmos. 
+
+**Meta 1.** Incluir obstáculos retangulares no espaço de trabalho simulado no CoppeliaSim. Considerando que o robô seja de forma quadrada e sua orientação não mude, obter o mapa correspondente em espaço de configuração. Incluir funcionalidade que permita apresentar o caminho do robô. Entregar relatório, e vídeo mostrando as novas funcionalidades implementadas. 
+
+**Meta 2.** Implementar planejador de caminhos baseado em campos de potenciais e planejador baseado em grafos para o robô móvel. A sua implementação deve permitir mostrar o caminho gerado no espaço de trabalho do CoppeliaSim. Apresentar gráfico também com a função de potencial calculada. Implementar controlador que permita ao robô seguir o caminho planejado. Entregar relatório e vídeo mostrando o robô seguindo o caminho planejado.
+
+**Meta 3.** Implementar planejador de caminhos baseado em amostragem para o robô móvel. A sua implementação deve permitir mostrar o caminho gerado no espaço de trabalho do CoppeliaSim. Implementar controlador que permita ao robô seguir o caminho planejado. Entregar relatório e vídeo mostrando o robô seguindo o caminho planejado.
