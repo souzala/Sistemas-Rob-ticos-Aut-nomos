@@ -22,8 +22,7 @@ Simular um robô móvel com acionamento diferencial e desenvolver um sistema de 
 
 ## Segundo projeto
 
-
-**Objetivo: **
+**Objetivo:**
 Desenvolver Planejadores de Caminhos para Robô Móvel que permitam ao mesmo executar movimentos especificados em espaço povoado de obstáculos, sem colidir com os mesmos. 
 
 **Meta 1.** Incluir obstáculos retangulares no espaço de trabalho simulado no CoppeliaSim. Considerando que o robô seja de forma quadrada e sua orientação não mude, obter o mapa correspondente em espaço de configuração. Incluir funcionalidade que permita apresentar o caminho do robô. Entregar relatório, e vídeo mostrando as novas funcionalidades implementadas. 
