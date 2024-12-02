@@ -6,7 +6,7 @@ https://www.youtube.com/live/1MYtz5fwXZg
 **Playlist em português sobre o uso do Coppelia:**
 https://www.youtube.com/playlist?list=PL1WrY7PmiW_iwesX41-rS6ddHlvbrpe0O
 
-## Primeiro projeto
+## [Primeiro projeto](https://github.com/souzala/sra-sistemas-roboticos-autonomos/blob/main/primeiro-projeto.md)
 
 **Objetivo:** 
 Simular um robô móvel com acionamento diferencial e desenvolver um sistema de controle cinemático que permita ao mesmo executar movimentos especificados em espaço livre de obstáculos. 
