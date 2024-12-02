@@ -20,7 +20,7 @@ Simular um robô móvel com acionamento diferencial e desenvolver um sistema de 
 **Meta 3.** Implementar gerador de caminho baseado em polinômios interpoladores de 3º grau para robô móvel. Incluir gerador de caminho na simulação. O simulador deve permitir mostrar o caminho gerado sobre a tela do espaço de trabalho do CoppeliaSim. Implementar controlador de caminhos para seguir o caminho especificado Obter resultados de simulação (caminho gerado, caminho seguido, gráficos das variáveis de entrada e saída em função do tempo, etc.). Entregar relatório e vídeo mostrando o sistema funcionando.
 
 
-##Segundo projeto
+## Segundo projeto
 
 
 **Objetivo: **
