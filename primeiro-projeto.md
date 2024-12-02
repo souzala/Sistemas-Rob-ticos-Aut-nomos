@@ -3,6 +3,7 @@
 ## Meta 1:
 
 **Vídeo da simulação:** https://www.youtube.com/watch?v=o6U6WxO4qWg
+**[Relatório:]** (https://github.com/souzala/sra-sistemas-roboticos-autonomos/blob/main/Relat%C3%B3rio_Semin%C3%A1rio_Sistemas_Rob%C3%B3ticos_Aut%C3%B4nomos_2024.pdf)
 
 ```
 sim=require'sim'
